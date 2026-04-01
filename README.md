@@ -22,7 +22,7 @@ Instead of locking you into fixed templates, you can:
 - Move invoice fields anywhere (logo, signature, notes, etc.)  
 - Rename labels and use your own language (useful for EU and international clients)  
 - Adjust number and date formats based on region  
-- Add taxes (GST, CGST, IGST, VAT, etc.)  
+- Add taxes (VAT, GST, etc.)  
 - Apply discounts (flat or percentage)  
 - Include shipping charges  
 - Add text or image watermarks  
