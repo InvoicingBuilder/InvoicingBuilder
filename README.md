@@ -4,7 +4,7 @@ Most invoice tools look good at first… until you actually try to use them.
 
 As freelancers, we kept running into the same issues:
 - Templates were too rigid  
-- Couldn’t place signature where I wanted  
+- Couldn’t place signature where we wanted  
 - Number/date formats didn’t match my EU clients  
 - Could rename fields, but couldn’t change layout  
 - Free tools added watermarks, ads, or limits  
@@ -53,7 +53,7 @@ If you’re new or want to understand how things work:
 
 ---
 
-## 💡 Why I built this invoice builder
+## 💡 Why we built this invoice builder
 
 We didn’t set out to build “another invoice generator”.
 
