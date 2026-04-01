@@ -69,6 +69,6 @@ If you’ve ever felt limited by invoice templates, this might be useful.
 
 ## 🙌 Feedback
 
-This is still evolving. If you try it and something feels off or missing, feel free to share feedback.
+This is still evolving. If you try it and something feels off or missing, feel free to share [feedback](https://www.invoicingbuilder.com/feedback).
 
 That’s how this tool got built in the first place.
