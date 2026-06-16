@@ -43,7 +43,8 @@ You don’t have to build everything from scratch. There are ready-to-use invoic
 - [Standard invoice template](https://www.invoicingbuilder.com/template/standard-invoice)  
 - [Quotation template](https://www.invoicingbuilder.com/template/quotation)  
 - [Payslip template](https://www.invoicingbuilder.com/template/payslip)  
-- [Proforma invoice template](https://www.invoicingbuilder.com/template/proforma)  
+- [Proforma invoice template](https://www.invoicingbuilder.com/template/proforma)
+- [Freelance writer invoice template](https://www.invoicingbuilder.com/invoice/freelance-writer-invoice)  
 
 ---
 
