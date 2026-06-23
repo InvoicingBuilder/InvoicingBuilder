@@ -26,10 +26,10 @@ Instead of locking you into fixed templates, you can:
 - Apply discounts (flat or percentage)  
 - Include shipping charges  
 - Add text or image watermarks
-- PDF invoices from tracked hours in Clockify
-- PDF invoices from tracked hours in Toggl and ClickUp (coming soon)
-- PDF invoices from Notion (coming soon)
-- Developer API (coming soon)
+- PDF invoices from tracked hours in **Clockify**
+- PDF invoices from tracked hours in **Toggl** and **ClickUp** (coming soon)
+- PDF invoices from **Notion** (coming soon)
+- Developer **API** (coming soon)
 
 It’s designed to handle real-world billing, not just basic demo invoices.
 
