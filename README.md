@@ -26,10 +26,10 @@ Instead of locking you into fixed templates, you can:
 - Apply discounts (flat or percentage)  
 - Include shipping charges  
 - Add text or image watermarks
-- PDF invoices from tracked hours in **Clockify**
-- PDF invoices from tracked hours in **Toggl** and **ClickUp** (coming soon)
+- PDF invoices from tracked hours in **Clockify and Toggl Track**
+- Developer **API**
 - PDF invoices from **Notion** (coming soon)
-- Developer **API** (coming soon)
+- PDF invoices from tracked hours in **ClickUp** (coming soon)
 
 It’s designed to handle real-world billing, not just basic demo invoices.
 
@@ -54,7 +54,10 @@ If you’re new or want to understand how things work:
 
 - [What is an invoice (beginner guide)](https://www.invoicingbuilder.com/guide/invoice-guide)  
 - [How to use the invoice builder](https://www.invoicingbuilder.com/guide/invoice-builder-guide)  
-- [Import Excel or CSV into invoice template](https://www.invoicingbuilder.com/guide/import-excel-or-csv-into-invoice-template)  
+- [Import Excel or CSV into invoice template](https://www.invoicingbuilder.com/guide/import-excel-or-csv-into-invoice-template)
+- [How to integrate Clockify](https://www.invoicingbuilder.com/guide/clockify-to-invoice)
+- [How to integrate Toggl Track](https://www.invoicingbuilder.com/guide/toggl-track-to-invoice)
+- [Invoice generator API guide](https://www.invoicingbuilder.com/guide//invoice-generator-api)
 
 ---
 
