@@ -57,6 +57,8 @@ If you’re new or want to understand how things work:
 - [Import Excel or CSV into invoice template](https://www.invoicingbuilder.com/guide/import-excel-or-csv-into-invoice-template)
 - [How to integrate Clockify](https://www.invoicingbuilder.com/guide/clockify-to-invoice)
 - [How to integrate Toggl Track](https://www.invoicingbuilder.com/guide/toggl-track-to-invoice)
+- [How to integrate Notion](https://www.invoicingbuilder.com/guide/notion-integration)
+- [How to integrate ClickUp](https://www.invoicingbuilder.com/guide/clickup-integration)
 - [Invoice generator API guide](https://www.invoicingbuilder.com/guide//invoice-generator-api)
 
 ---
