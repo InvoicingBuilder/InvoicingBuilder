@@ -35,6 +35,10 @@ It’s designed to handle real-world billing, not just basic demo invoices.
 
 ---
 
+For Clockify users: InvoicingBuilder is available as an external add-on in the [Clockify Marketplace](https://marketplace.cake.com/addons/1bdd9fc5-8d1d-4557-979f-8b885cb3b97b). Connect your Clockify account, bring in tracked time, map it to your invoice template, and create an invoice without re-entering your time entries.
+
+---
+
 ## 📄 Invoice templates you can start with
 
 You don’t have to build everything from scratch. There are ready-to-use invoice templates that you can customize:
