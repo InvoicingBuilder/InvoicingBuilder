@@ -29,7 +29,7 @@ Instead of locking you into fixed templates, you can:
 - Bulk invoice generator (Excel/CSV to PDF invoice)
 - PDF invoices from tracked hours in **Clockify, Toggl Track, and ClickUp**
 - Developer **API**
-- PDF invoices from **Notion**
+- PDF invoices from **Notion and Jira**
 
 It’s designed to handle real-world billing, not just basic demo invoices.
 
