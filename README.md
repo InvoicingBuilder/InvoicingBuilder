@@ -27,9 +27,10 @@ Instead of locking you into fixed templates, you can:
 - Include shipping charges  
 - Add text or image watermarks
 - Bulk invoice generator (Excel/CSV to PDF invoice)
+- Secured shareable link to send the invoice
 - PDF invoices from tracked hours in **Clockify, Toggl Track, and ClickUp**
 - Developer **API**
-- PDF invoices from **Notion and Jira**
+- PDF invoices from **Notion, Jira, and Asana**
 
 It’s designed to handle real-world billing, not just basic demo invoices.
 
