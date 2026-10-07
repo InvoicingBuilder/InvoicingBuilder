@@ -9,9 +9,9 @@ As freelancers, we kept running into the same issues:
 - Could rename fields, but couldn’t change layout  
 - Free tools added watermarks, ads, or limits  
 
-So we built **InvoicingBuilder** — a simple invoice builder that gives you real control over how your invoice looks and works.
+So we built Invoicing Builder — a simple invoice builder that gives you real control over how your invoice looks and works.
 
-👉 **Try it here:** https://www.invoicingbuilder.com/
+👉 **Try it here: [Invoicing Builder](https://www.invoicingbuilder.com/)**
 
 ---
 
